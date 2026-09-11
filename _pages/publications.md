@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+  The selected publications below are complemented by the complete, current list on <u><a href="{{ site.author.googlescholar }}">Google Scholar</a></u> and <u><a href="{{ site.author.orcid }}">ORCID</a></u>.
 {% endif %}
 
 {% include base_path %}
