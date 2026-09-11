@@ -41,8 +41,6 @@ redirect_from:
 
 The Wang Fei Lab is based in the School of Artificial Intelligence at Anhui University. Led by **Fei Wang**, Assistant Professor, the group works at the intersection of bioinformatics, artificial intelligence, and drug discovery. Our research focuses on building useful and biologically grounded models for drug–target relationships, drug repositioning, protein function, and variant-effect prediction.
 
-王飞课题组依托安徽大学人工智能学院，围绕生物信息学、人工智能与药物发现的交叉问题开展研究。课题组重点关注药物–靶点相互作用与亲和力预测、以药物为中心的关联预测、药物重定位，以及蛋白质功能和错义突变效应预测。
-
 ## Research profiles
 
 <div class="lab-actions">
